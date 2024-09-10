@@ -1,11 +1,11 @@
 ---
-title: "ACE inhibitors"
-publishedAt: 2024-09-05
-description: "ACE inhibitors"
-slug: "ACE inhibitors"
+title: "Diabetes"
+publishedAt: 2024-09-08
+description: "Diabetes"
+slug: "Diabetes"
 isPublish: true
 ---
-## Welcome to the page for ACE Inhibitors(eg Lisinopril, Enalapril, Captopril, Perindopril)
+## Welcome to the page for Diabetes
 ---
 
 ## When ACE inhibitors are used
