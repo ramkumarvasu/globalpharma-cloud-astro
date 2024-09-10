@@ -7,24 +7,14 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Learn to Cloud",
-    techs: ["ReactJS (Docusaurus)", "Azure", "DevOps"],
-    link: "https://learntocloud.guide",
+    title: "Neurology clinical trials",
+    techs: ["Alzheimer’s disease", "Parkinson’s disease", "epilepsy", "multiple sclerosis"],
+    link: "https://oncologyclinicaltrial.com",
   },
   {
-    title: "The DevOps Guide",
-    techs: ["ReactJS (NextJS)", "AWS", "DevOps"],
-    link: "https://thedevops.guide/",
-  },
-  {
-    title: "7 Days of Python",
-    techs: ["Python", "Cloud", "DevOps"],
-    link: "https://7daysofpython.com/",
-  },
-  {
-    title: "Cloud Resume API",
-    techs: ["Serverless","AWS", "Azure", "GCP"],
-    link: "https://cloudresumeapi.dev/",
+    title: "Oncology clinical trials",
+    techs: ["chemotherapy drugs","radiation therapies","immunotherapies", "targeted therapies"],
+    link: "https://oncologyclinicaltrial.com",
   },
 ];
 
