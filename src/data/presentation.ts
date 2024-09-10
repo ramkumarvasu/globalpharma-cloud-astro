@@ -1,4 +1,4 @@
-type Social = {
+l@globalharma.comtype Social = {
   label: string;
   link: string;
 };
@@ -12,31 +12,27 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "rishabkumar7@gmail.com",
-  title: "Hi, I’m Rishab 👋",
+  mail: "myemail@globalpharma.com",
+  title: "Global Pharma👋",
   //profile: "/profile.webp",
   description:
-    "I am a *Staff Developer Evangelist at Twilio*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *6 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
+    "We are a world-leading pharmaceutical company. Here you can find latest information on our drugs, symptoms, treatments and clinical  trials available",
   socials: [
     {
       label: "YouTube",
-      link: "https://youtube.com/@rishabincloud",
+      link: "https://youtube.com/@globalpharma",
     },
     {
       label: "X",
-      link: "https://twitter.com/rishabincloud",
+      link: "https://twitter.com/globalpharma",
     },
     {
       label: "LinkedIn",
-      link: "https://linkedin.com/in/rishabkumar7",
+      link: "https://linkedin.com/in/globalpharma",
     },
     {
       label: "GitHub",
-      link: "https://github.com/rishabkumar7",
-    },
-    {
-      label: "Bento",
-      link: "https://bento.me/rishabincloud",
+      link: "https://github.com/globalpharma",
     },
   ],
 };
