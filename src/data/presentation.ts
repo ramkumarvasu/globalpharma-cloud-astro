@@ -1,4 +1,4 @@
-l@globalharma.comtype Social = {
+type Social = {
   label: string;
   link: string;
 };
