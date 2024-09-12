@@ -1,6 +1,6 @@
 ---
 title: "Infleza"
-  publishedAt: 2024-09-13
+publishedAt: 2024-09-13
 description: "Influenza update"
 slug: "Influenza"
 isPublish: true
