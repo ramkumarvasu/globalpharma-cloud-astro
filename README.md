@@ -1,6 +1,4 @@
-# 👨‍🚀 Rishab's Portfolio in Astro
-
-![Template](https://github.com/MaeWolff/astro-portfolio-template/blob/main/public/opengraph-image.jpg)
+# 👨‍🚀 Sample Pharmaceutical company App
 
 
 This portfolio is based on theme by [Maxence](https://www.maxencewolff.com), the [repo is here](https://github.com/MaeWolff/astro-portfolio-template).
